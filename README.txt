@@ -7,6 +7,9 @@ Enclosures:
  4.) This README.txt file.
  5.) maven notes about how the projected was created from scratch.
  
+ Note: This is available to pull into workspace from GitHub repository using the following url:
+ https://github.com/nirmalksingh/AnagramVerifier
+ 
  Assumptions:
  0.) Users will come utilize their own robust main program to take input. Only sample main program with two strings is provided. 
  1.) There can be only 256 of possible characters
