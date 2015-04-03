@@ -91,4 +91,14 @@ public class AnagramTest{
 		assertEquals(true, yesTrue);
 	}
 	
+	@Test
+	public void testAnagramSix() {
+		String testStr1 = "Eleven plus two";
+		String testStr2 = "  Twelve plus one";
+		boolean yesTrue = instance.areAnagrams(testStr1, testStr2);
+		System.out.println("Test # 6: "+testStr1+" AND "+ testStr2+" ARE ANAGRAMS");
+		assertEquals(true, yesTrue);
+	}
+		
+	
 }
