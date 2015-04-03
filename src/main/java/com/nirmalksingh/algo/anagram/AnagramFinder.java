@@ -1,4 +1,4 @@
-package com.fiveamsolutions.interview.AnagramFinder;
+package com.nirmalksingh.algo.anagram;
 
 public interface AnagramFinder {
 	/**

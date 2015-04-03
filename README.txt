@@ -5,6 +5,7 @@ Enclosures:
  2.) A unit test (4.0) has been included - tests space, printable characters new lines characters.
  3.) junit jar for version 4.7 is included(specific version to ascertain no discrepancy)
  4.) This README.txt file.
+ 5.) maven notes about how the projected was created from scratch.
  
  Assumptions:
  0.) Users will come utilize their own robust main program to take input. Only sample main program with two strings is provided. 

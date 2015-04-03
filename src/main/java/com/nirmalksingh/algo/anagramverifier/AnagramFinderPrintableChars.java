@@ -1,6 +1,6 @@
 package com.nirmalksingh.algo.anagramverifier;
 
-import com.fiveamsolutions.interview.AnagramFinder.AnagramFinder;
+import com.nirmalksingh.algo.anagram.AnagramFinder;
 
 /**
  * @author nirmalksingh
